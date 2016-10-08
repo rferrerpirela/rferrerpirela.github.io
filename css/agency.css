@@ -152,7 +152,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-brand {
   color: #fed136;
-  font-family: "Concert One", "Helvetica Neue", Helvetica, Arial, cursive;
+  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
@@ -236,7 +236,9 @@ header {
   /* Chrome 10-25, Safari 5.1-6 */
   background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
   color: white;
+
 }
 header .intro-text {
   padding-top: 100px;
@@ -273,8 +275,8 @@ header .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 75px;
-    line-height: 75px;
+    font-size: 50px;
+    line-height: 50px;
     margin-bottom: 50px;
   }
 }
